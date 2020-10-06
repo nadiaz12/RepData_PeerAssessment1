@@ -2,7 +2,8 @@
 title: "Project_Week2"
 author: "Nelson"
 date: "10/5/2020"
-output: html_document
+html_document: 
+    keep_md: true 
 ---
 # Loading and preprocessing the data
 ### 1. Load the data
